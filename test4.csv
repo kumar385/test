@@ -24,4 +24,4 @@ Google Pub/Sub,adopt,platform,FALSE,
 Spring Cloud Stream,explore,tools,FALSE,
 Memcache,explore,tools,FALSE,In-memory Cache
 Redis,explore,tools,FALSE,In-memory Cache
-Apache Kafka,explore,,FALSE,
+Apache Kafka,explore,platform,FALSE,
