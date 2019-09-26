@@ -1,4 +1,4 @@
-name,ring,quadrant,isNew,description
+"name", "ring", "quadrant", "isNew", "description"
 Bridje MVC ,retire,Language & frameworks,FALSE,This is legacy framework. This is retired
 Spring MVC,adopt,Language & frameworks,FALSE,
 Angular JS,trail,Language & frameworks,FALSE,"Angular is UI framework, We are recommending to not use Angular any further."
