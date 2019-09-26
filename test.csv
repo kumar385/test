@@ -1,0 +1,11 @@
+name,ring,quardrant,isNew,description
+Bridje MVC ,retire,Language & frameworks,FALSE,This is legacy framework. This is retired
+Spring MVC,adopt,Language & frameworks,FALSE,
+Angular JS,trail,Language & frameworks,FALSE,"Angular is UI framework, We are recommending to not use Angular any further."
+ReactJS,adopt,Language & frameworks,TRUE,This is recommended CNA UI framework.
+VUE.js,trail,Language & frameworks,TRUE,This is emerging technology.
+Spring Cloud Data Flow,assess,Language & frameworks,TRUE,Spring data flow will help adminitrate spring batch jobs.
+Canary Builds,assess,Techniques,FALSE,Deployment model
+Blue Green Deployment,assess,Techniques,FALSE,Blue Green Deployment
+Jfrog,assess,tools,TRUE,Repository and open source security and license validation tool
+Google Cloud,platforms,platform,TRUE,Google cloud platform
