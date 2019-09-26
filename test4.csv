@@ -1,0 +1,27 @@
+name,ring,quadrant,isNew,description
+Bridje MVC ,retire,Language & frameworks,FALSE,This is legacy framework. This is retired
+Spring MVC,adopt,Language & frameworks,FALSE,
+Angular JS,endure,Language & frameworks,FALSE,"Angular is UI framework, We are recommending to not use Angular any further."
+ReactJS,adopt,Language & frameworks,TRUE,This is recommended CNA UI framework.
+VUE.js,explore,Language & frameworks,TRUE,This is emerging technology.
+Spring Cloud Data Flow,explore,Language & frameworks,TRUE,Spring data flow will help adminitrate spring batch jobs.
+Canary Builds,explore,Techniques,FALSE,Deployment model
+Blue Green Deployment,explore,Techniques,FALSE,Blue Green Deployment
+Jfrog,explore,tools,TRUE,Repository and open source security and license validation tool
+Google Cloud,adopt,platform,TRUE,Google cloud platform
+Bootstrap or HTML5 CSS,explore,platform,FALSE,
+Google Object Storage,explore,platform,FALSE,Client side caching
+Google Object Storage,adopt,platform,FALSE,Web Storage
+Node.js,endure,Language & frameworks,FALSE,
+Spring Boot,adopt,Language & frameworks,FALSE,API Protocols
+REST JSON; REST XML; WebSockets,adopt,Techniques,FALSE,
+Akamai for Content Delivery; Google Cloud Storage,adopt,tools,FALSE,
+IE 11; Chrome; Firefox ; Safari ,adopt,tools,FALSE,Browser standards
+HTML5; Chrome,adopt,tools,FALSE,Offline apps
+Google Web Analytics,adopt,platform,FALSE,User/Web Analytics
+RabbitMQ,explore,tools,FALSE,
+Google Pub/Sub,adopt,platform,FALSE,
+Spring Cloud Stream,explore,tools,FALSE,
+Memcache,explore,tools,FALSE,In-memory Cache
+Redis,explore,tools,FALSE,In-memory Cache
+Apache Kafka,explore,,FALSE,
