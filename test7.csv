@@ -11,7 +11,7 @@ Node.js,As needed for frontend,Language & frameworks,adopt,FALSE
 Node.js backend microservice,node js microservices,Language & frameworks,endure,FALSE
 Spring Boot,Microservices,platform,adopt,FALSE
 REST JSON; REST XML; WebSockets,API Protocols,platform,adopt,FALSE
-Akamai for Content Delivery; Google Cloud Storage,Cache Proxy,platform,,
+Akamai for Content Delivery,Cache Proxy,platform,adopt,FALSE
 IE 11,Browser Standards,platform,adopt,FALSE
 Chrome,Browser Standards,platform,adopt,FALSE
 Firefox,Browser Standards,platform,adopt,FALSE
