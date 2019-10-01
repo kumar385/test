@@ -1,0 +1,98 @@
+description,name,quadrant,ring,isNew
+React.js,MVC Frameworks,Language & frameworks,adopt,FALSE
+VUE.js,MVC Frameworks,Language & frameworks,explore,TRUE
+Modularization,"Code should be modularized as functional components.
+Do not bundle all the code in one module and have meaningful modules instead of technical modules.",Design & Techniques,adopt,TRUE
+Cloud Native microservice,Design,Design & Techniques,adopt,FALSE
+Bootstrap or HTML5 CSS,UI/CSS Frameworks,Language & frameworks,adopt,FALSE
+Google Object Storage,Web Storage;Input Processing,Design & Techniques,adopt,TRUE
+OKTA,Client Side Security. Authentication and Authorization.API Security;IDaaS,Design & Techniques,adopt,TRUE
+Node.js,As needed for frontend,Language & frameworks,adopt,FALSE
+Node.js backend microservice,node js microservices,Language & frameworks,endure,FALSE
+Spring Boot,Microservices,platform,adopt,FALSE
+REST JSON; REST XML; WebSockets,API Protocols,platform,adopt,FALSE
+Akamai for Content Delivery,Cache Proxy,platform,adopt,FALSE
+IE 11,Browser Standards,platform,adopt,FALSE
+Chrome,Browser Standards,platform,adopt,FALSE
+Firefox,Browser Standards,platform,adopt,FALSE
+Safari,Browser Standards,platform,adopt,FALSE
+HTML5; Chrome,Offline apps,Language & frameworks,explore,TRUE
+Google Web Analytics,User/Web Analytics,platform,adopt,TRUE
+RabbitMQ,Asynchronous/Event Based,tools,explore,TRUE
+Spring Cloud Stream;,Asynchronous/Event Based,tools,explore,TRUE
+GCP Pub/Sub,"Asynchronous/Event Based, Event Sourcing",tools,adopt,FALSE
+Memcache,In-memory Cache,tools,explore,TRUE
+ehcache,In-memory Cache,tools,endure,FALSE
+Redis,In-memory Cache,tools,explore,TRUE
+Apache Kafka,Event Sourcing,tools,explore,TRUE
+Google Stackdriver,Distributed Tracing/Log Aggregators; Monitoring;Logging Framework,platform,adopt,TRUE
+Elk,Distributed Tracing/Log Aggregators;Logging Framework,platform,explore,TRUE
+Splunk,Distributed Tracing/Log Aggregators;Logging Framework,platform,explore,TRUE
+DynaTrace,Monitoring,tools,endure,FALSE
+Python,Microservices Framework,platform,endure,FALSE
+REST JSON,API Protocols,Design & Techniques,adopt,FALSE
+REST XML,API Protocols,Design & Techniques,endure,FALSE
+DROOLS,Rules Engine,tools,explore,FALSE
+APIGee,Service discovery for all enterprise services;Circuit Breakers; API Gateway,platform,adopt,FALSE
+Spring Cloud Services,Service Discovery;Service Mesh,platform,explore,FALSE
+Consul,Service Discovery;Service Mesh;Circuit Breakers,platform,explore,FALSE
+Istio,Service Mesh,platform,explore,FALSE
+Spring Hystrix,Circuit Breakers,tools,explore,TRUE
+Ignite,API management,tools,adopt,FALSE
+OpenID,API Security ,Design & Techniques,explore,TRUE
+MySQL,ACID Data Repositories,tools,endure,TRUE
+PostGres,ACID Data Repositories,tools,adopt,FALSE
+GCP - Cloud Datastore,NoSQL Repositories,tools,explore,TRUE
+NoSQL as a service or NoSQL on IaaS (MongoDB).,NoSQL Repositories,tools,explore,TRUE
+PostGres,NoSQL Repositories,tools,explore,TRUE
+Data Access Services,Spring Cloud using Open Service Broker Architecture,tools,explore,TRUE
+Flyway,Application data migration,tools,adopt,FALSE
+Spring Cloud Data Flow,For spring batch administration,platform,explore,TRUE
+GCP Dataflow,ETL for all the data,platform,adopt,FALSE
+kubernetes batch,Task Executors,platform,explore,TRUE
+Composer,Scheduler,platform,explore,FALSE
+"GCP - GoogleCloud Directory Sync, GoogleGlobal Directory",Directory,platform,explore,TRUE
+IdentityIQ,Identity Governance and Administration,platform,adopt,FALSE
+OneIdentity OR New,Previleged Identity and Access Mgmt.,platform,adopt,FALSE
+Venafi,Public Key Infrastructure,platform,explore,TRUE
+Veracode,Vulnerability Mgmt.,platform,adopt,FALSE
+TrustWave,Vulnerability Mgmt.,platform,adopt,FALSE
+Qualys ,Vulnerability Mgmt.,platform,retire,TRUE
+GCP - Kubernetes (Docker),Container,platform,adopt,FALSE
+Apache Tomcat,IaaS,tools,adopt,FALSE
+GCP - AppEngine & Flex,PaaS,platform,explore,TRUE
+GCP - Google Functions,Serverless,platform,explore,TRUE
+Apache FOP,Document Generation,tools,endure,FALSE
+Apache Solr,Enterprise Search,tools,explore,FALSE
+Cloud CMS,Content Mgmt.,platform,adopt,FALSE
+Java 8,Programming language,Language & frameworks,adopt,FALSE
+Java 11,Programming language,Language & frameworks,explore,TRUE
+Kotlin,Language,Language & frameworks,endure,FALSE
+Javascript,Language,Language & frameworks,adopt,TRUE
+Python,Language for data analytics,Language & frameworks,adopt,FALSE
+Spring Cofig Server (SCS),Config Framework,platform,explore,TRUE
+Hibernate,Persistence (ORM),Language & frameworks,endure,FALSE
+Spring Data,Persistence (ORM),Language & frameworks,adopt,FALSE
+Eclipse (Spring Tool Suite) ,IDE,tools,adopt,FALSE
+ IntelliJ,IDE,tools,adopt,FALSE
+ Atom (JS),IDE,tools,endure,FALSE
+GCP Console,IDE,tools,endure,FALSE
+Visual Studio code,"IDE for javascript,react applications",tools,adopt,FALSE
+Junit,Unit Test Frameworks,Language & frameworks,adopt,FALSE
+Mockito,Unit Test Frameworks,Language & frameworks,adopt,FALSE
+Wiremock,Unit Test Frameworks,Language & frameworks,adopt,FALSE
+Jasmine,Unit Test Frameworks,Language & frameworks,adopt,FALSE
+Mocha,Unit Test Frameworks,Language & frameworks,adopt,FALSE
+Selenium,QA Testing Frameworks & Tools,Language & frameworks,adopt,FALSE
+Postman,QA Testing Frameworks & Tools,tools,adopt,FALSE
+Newman,QA Testing Frameworks & Tools,tools,adopt,FALSE
+Jmeter; loadtest; New Cloud (TBD),Performance Testing Frameworks & Tools,tools,adopt,FALSE
+GCP Code Repository,Source Code Repository,platform,explore,TRUE
+GitLab,Source Code Repository,platform,adopt,FALSE
+Nexus,Artifact Repository,platform,endure,FALSE
+ Jfrog,Artifact Repository,platform,explore,TRUE
+Terraform,Infra provisioning language,Language & frameworks,adopt,TRUE
+Maven,Build Tools,Language & frameworks,adopt,TRUE
+Gradle,Build Tools,Language & frameworks,adopt,TRUE
+Concourse,Deploy Tools using ci/cd pipeline,platform,adopt,TRUE
+Katalon,QA Testing Frameworks & Tools,Language & frameworks,adopt,TRUE
